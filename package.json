@@ -9,7 +9,7 @@
     "watch-test": "jest --watch"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   
   },
   "keywords": [
